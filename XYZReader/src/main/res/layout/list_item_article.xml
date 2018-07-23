@@ -10,7 +10,7 @@
     android:clickable="true"
     android:focusable="true"
     android:foreground="?android:selectableItemBackground"
-    app:elevation="8dp">
+    app:elevation="1dp">
 
     <LinearLayout
         android:layout_width="match_parent"
